@@ -6,5 +6,3 @@ states. Formulated recommendations to address fiscal imbalances through policy i
 central transfers.
 ## Contributions
 Contributions to this project are welcome. Feel free to open a pull request or an issue if you have any suggestions or bug reports.
-## Members 
-- [Shweta](https://github.com/me-shweta)
